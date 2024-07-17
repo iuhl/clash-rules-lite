@@ -231,3 +231,5 @@ payload:
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,oaistatic.com
+
+  - DOMAIN,v2ex.com
