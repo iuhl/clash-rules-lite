@@ -233,3 +233,5 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
 
   - DOMAIN,v2ex.com
+  - DOMAIN,binance.com
+  - DOMAIN,google.com
